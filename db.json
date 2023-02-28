@@ -1,0 +1,61 @@
+{
+  "projects": [
+    {
+      "name": "Projeto atualizado",
+      "budget": "24820",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 3540,
+      "services": [
+        {
+          "name": "AWS",
+          "cost": "3000",
+          "description": "banco de dados",
+          "id": "5c3e8b5d-9469-42dd-81fc-3603d05a9017"
+        },
+        {
+          "name": "Contratar dev",
+          "cost": "540",
+          "description": "front end",
+          "id": "6cd3395e-ad29-48f1-bc0d-8d08b46fd1d2"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Finanças",
+      "budget": "2544",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    },
+    {
+      "id": 5,
+      "name": "Etc2"
+    }
+  ]
+}
